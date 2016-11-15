@@ -18,7 +18,6 @@ Attack descriptions as well as some documentation to get you started with the in
 # Is Kali NetHunter an Android ROM?
 
 Kali Linux NetHunter is **not** a ROM but is meant to be installed over an existing stock/factory image of Android. It can also be installed over some Cyanogenmod based ROMs depending on device support. It is heavily based on using custom kernels and only supports a select number of devices.
-We're relying on you, the community, to port your devices for the full Kali NetHunter experience.
 
 # Devices supported:
 Xiaomi Redmi Note 3 [kenzo]
