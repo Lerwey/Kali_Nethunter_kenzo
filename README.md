@@ -24,9 +24,9 @@ We're relying on you, the community, to port your devices for the full Kali NetH
 Xiaomi Redmi Note 3 Pro [Snapdragon Version] (kenzo)
 
 # DOWNLOAD
--[Full CM13 with custom kernel integrated]: https://www.dropbox.com/s/j218tos8iv8pf2y/kali-cm-13.0-20161114-UNOFFICIAL-kenzo.zip
--[Patch for system to Add firmware etc]: https://www.dropbox.com/s/oz9bsqd2oqgqvqh/additional-system-patch-nethunter-kenzo-marshmallow-20161114_134739.zip
--[Kalifs full]: https://www.dropbox.com/s/l7lf6uk52wi3iit/nethunter-kenzo-marshmallow-kalifs-full-20161114_134636.zip
+-[Full CM13 with custom kernel integrated]: https://www.dropbox.com/s/j218tos8iv8pf2y/kali-cm-13.0-20161114-UNOFFICIAL-kenzo.zip<br>
+-[Patch for system to Add firmware etc]: https://www.dropbox.com/s/oz9bsqd2oqgqvqh/additional-system-patch-nethunter-kenzo-marshmallow-20161114_134739.zip<br>
+-[Kalifs full]: https://www.dropbox.com/s/l7lf6uk52wi3iit/nethunter-kenzo-marshmallow-kalifs-full-20161114_134636.zip<br>
 
 # INSTALLATION INSTRUCTIONS
 1) WIPE DATA, CACHE, DALVIK CACHE
