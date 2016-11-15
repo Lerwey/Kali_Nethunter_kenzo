@@ -33,7 +33,7 @@ Xiaomi Redmi Note 3 Pro [Snapdragon Version] (kenzo)
 2) Flash kali-cm13.0<br>
 3) Flash OpenGapps for arm64<br>
 4) Reboot<br>
-After first boot return into recovery mode and :<br>
+### After first boot return into recovery mode and :<br>
 1) Flash additional-system-patch<br>
 2) Flash nethunter-kenzo-marshmallow-kalifs-full<br>
 3) Reboot<br>
