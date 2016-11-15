@@ -39,6 +39,7 @@ Xiaomi Redmi Note 3 Pro [Snapdragon Version] (kenzo)
 3) Reboot<br>
 
 # Conclusion
-I'm not responsible for bricked devices, dead SD cards
+I'm not responsible for bricked devices, dead SD cards.
+
 
 # XDA
