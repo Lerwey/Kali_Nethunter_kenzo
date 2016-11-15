@@ -21,7 +21,7 @@ Kali Linux NetHunter is **not** a ROM but is meant to be installed over an exist
 We're relying on you, the community, to port your devices for the full Kali NetHunter experience.
 
 # Devices supported:
-Xiaomi Redmi Note 3 Pro [Snapdragon Version] (kenzo)
+Xiaomi Redmi Note 3 [kenzo]
 
 # DOWNLOAD
 -[Full CM13 with custom kernel integrated]: https://www.dropbox.com/s/j218tos8iv8pf2y/kali-cm-13.0-20161114-UNOFFICIAL-kenzo.zip<br>
