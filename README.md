@@ -29,14 +29,14 @@ Xiaomi Redmi Note 3 Pro [Snapdragon Version] (kenzo)
 -[Kalifs full]: https://www.dropbox.com/s/l7lf6uk52wi3iit/nethunter-kenzo-marshmallow-kalifs-full-20161114_134636.zip<br>
 
 # INSTALLATION INSTRUCTIONS
-1) WIPE DATA, CACHE, DALVIK CACHE
-2) Flash kali-cm13.0
-3) Flash OpenGapps for arm64
-4) Reboot
-After first boot return into recovery mode and :
-1) Flash additional-system-patch
-2) Flash nethunter-kenzo-marshmallow-kalifs-full
-3) Reboot
+1) WIPE DATA, CACHE, DALVIK CACHE<br>
+2) Flash kali-cm13.0<br>
+3) Flash OpenGapps for arm64<br>
+4) Reboot<br>
+After first boot return into recovery mode and :<br>
+1) Flash additional-system-patch<br>
+2) Flash nethunter-kenzo-marshmallow-kalifs-full<br>
+3) Reboot<br>
 
 # Conclusion
 I'm not responsible for bricked devices, dead SD cards
