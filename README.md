@@ -23,9 +23,9 @@ Kali Linux NetHunter is **not** a ROM but is meant to be installed over an exist
 Xiaomi Redmi Note 3 [kenzo]
 
 # Downloads :
--[Full CM13 with custom kernel integrated]: https://www.dropbox.com/s/j218tos8iv8pf2y/kali-cm-13.0-20161114-UNOFFICIAL-kenzo.zip<br>
--[Patch for system to Add firmware etc]: https://www.dropbox.com/s/oz9bsqd2oqgqvqh/additional-system-patch-nethunter-kenzo-marshmallow-20161114_134739.zip<br>
--[Kalifs full]: https://www.dropbox.com/s/l7lf6uk52wi3iit/nethunter-kenzo-marshmallow-kalifs-full-20161114_134636.zip<br>
+-[Full CM13 with custom kernel integrated]: https://mega.nz/#!Q40iUDZb!ubq5vB8zwzXzv6PV-CXJgdSpUOXyOfkcuq19EptSARo<br>
+-[Patch for system to Add firmware etc]: https://mega.nz/#!ph8AHL7B!0YzjmQw7U5WOX2YHZXi6WxPBELA_pJMGHq8cJAGR8rU<br>
+-[Kalifs full]: https://mega.nz/#!w00TwRIC!ub1kpaKJI-AtowJXjJi-M37Ux2I3g_kOdx2V0JsJ-Og<br>
 
 # Instructions :
 1) WIPE DATA, CACHE, DALVIK CACHE<br>
